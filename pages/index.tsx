@@ -10,6 +10,7 @@ const Home: NextPage = () => {
         <title>Classic Studios</title>
         <link rel="icon" href="/fav.png" />
         <link rel="stylesheet" href="https://use.typekit.net/pfx4nad.css"/>
+        <meta name="description" content=""/>
       </Head>
 
       <main className={styles.main}>
